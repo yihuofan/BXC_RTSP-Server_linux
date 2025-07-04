@@ -1,0 +1,15 @@
+﻿# .gitignore
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+build/
+bin/
+logs/
+*.log
+*.swp
+.DS_Store
+
+
+
