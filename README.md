@@ -2,7 +2,7 @@
 
 ## 声明
 
-本项目基于 [Vanishi](https://gitee.com/Vanishi ) 的开源项目（MIT License），在此基础上进行了修改与扩展。
+本项目基于 [Vanishi](https://gitee.com/Vanishi ) 的开源项目（MIT License），在此基础上进行了linux平台移植以及一些小部分的修改与扩展。
 感谢原作者的贡献！
 
 原始项目地址：https://gitee.com/Vanishi/BXC_RtspServer_study
